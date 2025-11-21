@@ -1,0 +1,1001 @@
+id,Diabetes_012,HighBP,HighChol,CholCheck,BMI,Smoker,Stroke,HeartDiseaseorAttack,PhysActivity,Fruits,Veggies,HvyAlcoholConsump,AnyHealthcare,Nao_foi_medico_por_causa_custo,saude_geral,dias_que_saude_mental_nao_boa,dias_que_saude_fisica_nao_boa,dificuldade_caminhar,Sex,Age,Education,Income
+64176,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,10,high school,6
+10503,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,No,Yes,No,No,No,No,No,Yes,Yes,ruim,30,30,Yes,mulher,13,1 a 8 anos de estudo,2
+89883,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,62,No,No,No,Yes,No,No,No,Yes,No,boa,0,30,Yes,mulher,9,high school,3
+228345,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,4,6,8
+140882,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,6,5
+157310,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,No,No,Yes,No,boa,25,0,No,homem,7,high school,7
+127201,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,6,8
+168502,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,35,No,No,No,No,Yes,Yes,No,Yes,No,regular,0,30,No,homem,7,College,5
+230133,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,3,high school,5
+92919,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,9,College,8
+220808,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,25,Yes,No,No,Yes,No,Yes,No,No,Yes,ruim,25,25,No,homem,4,high school,6
+204345,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,37,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,2,0,No,mulher,5,6,8
+162709,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,7,6,8
+218742,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,4,6,7
+54286,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,No,No,Yes,No,Yes,Yes,No,Yes,No,boa,1,0,No,homem,11,College,2
+41156,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,muito boa,0,4,No,mulher,11,6,7
+120532,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,4,No,mulher,9,6,7
+76518,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,20,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,10,College,6
+25170,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,No,Yes,No,Yes,No,regular,0,5,No,homem,12,College,5
+175348,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,No,Yes,No,ruim,0,30,Yes,mulher,7,College,5
+95286,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,39,No,No,No,No,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,6,6
+240667,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,Yes,No,No,No,No,No,Yes,Yes,boa,2,15,Yes,mulher,2,College,4
+124551,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,No,No,boa,2,10,Yes,homem,8,high school,3
+222941,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,No,No,Yes,No,boa,0,0,No,homem,4,6,8
+120139,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,6,8
+83064,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,Yes,mulher,10,6,8
+169652,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,19,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,7,6,8
+203908,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,14,5,No,mulher,5,College,8
+88797,sem diabetes,No high,High cholesterol,No cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,2,No,mulher,10,6,8
+213548,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,50,Yes,No,No,No,No,No,No,Yes,No,muito boa,0,0,No,mulher,5,high school,3
+200554,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,16,No,No,No,No,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,5,6,6
+236674,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,1,1,No,homem,3,6,8
+159788,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,1,No,mulher,7,6,6
+68415,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,Yes,mulher,10,high school,5
+60593,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,63,No,No,Yes,No,Yes,No,No,Yes,No,regular,14,7,Yes,mulher,10,6,3
+231572,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,20,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,4,No,mulher,3,6,8
+94071,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,Yes,No,No,Yes,No,ruim,30,30,Yes,mulher,9,College,2
+44933,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,2,No,mulher,11,6,7
+227994,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,36,No,No,No,No,No,No,No,Yes,No,muito boa,0,0,No,mulher,4,College,3
+117423,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,20,0,No,mulher,9,6,8
+8874,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,34,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,1,No,mulher,13,6,5
+14641,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,25,No,Yes,No,No,Yes,No,No,Yes,No,boa,0,0,No,mulher,13,high school,4
+169882,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,boa,0,2,No,mulher,7,College,8
+145222,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,43,Yes,No,Yes,No,No,No,No,Yes,No,regular,2,30,Yes,mulher,8,College,2
+109718,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,No,Yes,Yes,Yes,No,muito boa,0,0,No,mulher,9,6,6
+145534,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,3,No,homem,8,6,8
+220837,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,No,Yes,Yes,No,No,Yes,excelente,0,0,No,mulher,4,high school,5
+156133,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,7,6,8
+62398,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,No,Yes,No,No,Yes,No,boa,0,0,Yes,mulher,10,6,1
+248949,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,10,3,No,mulher,1,6,7
+86345,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,19,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,10,6,8
+159698,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,excelente,0,0,No,mulher,7,6,6
+164923,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,30,0,No,mulher,7,high school,5
+76704,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,No,No,No,Yes,No,muito boa,0,2,No,mulher,10,high school,7
+123755,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,Yes,Yes,Yes,No,No,Yes,No,boa,0,0,No,mulher,8,high school,3
+192795,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,Yes,Yes,No,muito boa,10,0,No,mulher,6,6,8
+250254,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,muito boa,0,4,No,homem,1,College,8
+13715,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,Yes,Yes,No,Yes,No,boa,0,10,No,mulher,13,high school,5
+47729,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,5,No,mulher,11,6,7
+1537,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,No,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,13,9 a 11 anos de estudo,4
+54217,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,3,No,homem,11,College,7
+144709,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,0,0,No,mulher,8,high school,6
+2571,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,Yes,No,Yes,Yes,No,Yes,No,regular,0,0,Yes,homem,13,high school,8
+247557,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,No,Yes,No,Yes,Yes,muito boa,0,0,No,mulher,2,6,8
+62399,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,No,Yes,Yes,No,Yes,No,regular,0,20,Yes,mulher,10,high school,4
+201734,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,5,College,8
+81340,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,0,No,mulher,10,6,8
+172788,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,7,6,8
+56272,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,11,College,6
+162063,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,No,No,Yes,No,boa,0,0,No,homem,7,high school,6
+192284,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,No,No,Yes,Yes,ruim,10,30,Yes,mulher,6,high school,4
+17049,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,Yes,No,Yes,Yes,No,Yes,No,muito boa,0,2,No,mulher,13,high school,7
+153187,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,1,0,No,homem,7,6,8
+10826,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,2,0,No,mulher,13,high school,5
+243786,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,No,No,Yes,No,Yes,Yes,regular,20,3,No,mulher,2,College,7
+148876,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,No,No,Yes,Yes,No,muito boa,0,0,No,homem,8,College,5
+208639,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,No,Yes,Yes,Yes,No,boa,0,0,No,homem,5,high school,8
+84125,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,10,6,7
+138815,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,28,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,College,1
+92306,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,36,No,No,No,No,Yes,No,No,Yes,No,boa,0,5,No,homem,9,high school,6
+215940,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,4,College,7
+169082,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,5,0,No,mulher,7,6,8
+135816,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,8,6,8
+50739,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,No,No,No,Yes,No,regular,3,0,No,mulher,11,6,8
+186299,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,38,Yes,No,No,No,No,Yes,No,No,No,boa,0,0,Yes,homem,6,College,4
+32942,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,37,No,No,No,No,No,Yes,No,Yes,No,muito boa,0,6,Yes,mulher,12,high school,4
+105092,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,9,high school,7
+208043,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,5,6,5
+122754,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,No,Yes,No,Yes,No,regular,0,0,No,homem,8,6,8
+86263,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,10,high school,7
+142780,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,No,No,Yes,No,boa,0,0,No,mulher,8,College,8
+226440,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,Yes,Yes,No,No,No,Yes,No,Yes,No,ruim,30,30,Yes,mulher,4,College,8
+145354,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,muito boa,4,0,Yes,mulher,8,College,2
+190282,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,51,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,3,20,Yes,mulher,6,6,8
+76644,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,No,No,Yes,No,Yes,No,muito boa,0,4,No,homem,10,6,7
+6746,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,13,9 a 11 anos de estudo,3
+106927,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,No,No,Yes,No,Yes,No,excelente,2,5,Yes,homem,9,high school,5
+15661,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,13,College,7
+34368,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,No,No,No,No,Yes,No,regular,30,0,No,homem,11,6,6
+222347,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,4,6,7
+109463,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,9,6,8
+50223,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,11,6,6
+27795,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,Yes,No,No,No,No,No,Yes,No,boa,0,2,No,mulher,12,high school,3
+57780,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,Yes,Yes,No,Yes,No,Yes,No,boa,0,2,Yes,homem,10,high school,6
+1532,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,homem,13,College,5
+82080,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,No,No,Yes,No,boa,0,0,No,mulher,10,high school,5
+5180,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,No,Yes,Yes,No,Yes,No,regular,0,0,No,mulher,13,College,4
+235795,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,34,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,0,0,No,mulher,3,6,8
+51920,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,No,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,11,6,7
+214894,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,5,high school,8
+62272,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,Yes,No,No,Yes,No,Yes,No,boa,0,0,No,homem,10,6,8
+52318,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,4,25,Yes,homem,11,high school,4
+228714,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,regular,30,30,Yes,mulher,4,9 a 11 anos de estudo,5
+236867,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,1,No,mulher,3,6,7
+153163,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,36,Yes,No,No,Yes,Yes,No,No,Yes,No,regular,0,0,Yes,homem,7,high school,2
+165121,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,7,high school,8
+99319,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,3,No,homem,9,6,8
+184068,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,6,6,8
+101823,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,38,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,10,5,No,mulher,9,College,8
+101076,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,23,Yes,No,No,Yes,No,No,Yes,No,No,muito boa,0,0,No,mulher,9,College,2
+206607,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,5,College,7
+208122,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,16,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,5,6,8
+9632,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,13,6,8
+131838,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,8,high school,8
+237153,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,46,No,No,No,No,No,Yes,Yes,Yes,Yes,regular,25,0,No,mulher,3,6,7
+55178,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,11,6,8
+175844,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,Yes,No,No,Yes,regular,30,0,Yes,mulher,7,1 a 8 anos de estudo,1
+221395,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,19,No,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,mulher,4,6,8
+85035,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,3,0,No,mulher,10,College,6
+25789,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,45,No,No,No,No,No,No,No,Yes,No,excelente,0,0,Yes,mulher,12,high school,5
+79676,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,10,6,8
+232459,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,3,6,5
+169496,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,boa,0,0,No,mulher,7,College,6
+94600,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,35,No,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,0,30,No,mulher,9,high school,4
+240999,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,36,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,ruim,30,7,Yes,homem,2,College,1
+224649,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,No,Yes,Yes,Yes,No,muito boa,0,5,No,homem,4,6,8
+35322,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,No,Yes,No,Yes,No,boa,0,0,No,mulher,11,high school,5
+111085,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,19,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,0,0,No,mulher,9,high school,7
+127396,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,36,Yes,No,No,Yes,Yes,Yes,No,Yes,No,ruim,15,30,Yes,homem,8,high school,4
+176564,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,4,18,No,mulher,7,College,6
+47085,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,No,No,Yes,Yes,No,boa,30,0,No,homem,11,high school,2
+61423,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,36,No,Yes,No,No,No,No,No,Yes,No,regular,0,30,Yes,mulher,10,College,5
+35605,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,25,Yes,mulher,11,College,5
+108201,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,1,No,mulher,9,College,8
+197227,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,mulher,6,6,7
+91377,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,35,Yes,No,No,Yes,No,No,No,Yes,No,regular,30,15,Yes,mulher,9,high school,2
+40452,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,Yes,No,Yes,Yes,No,Yes,No,regular,0,5,Yes,mulher,11,6,8
+28639,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,12,6,6
+229509,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,No,No,No,No,Yes,No,boa,0,1,No,mulher,3,College,7
+39923,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,Yes,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,11,6,8
+197437,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,No,No,Yes,No,Yes,No,boa,0,4,No,homem,6,6,6
+97115,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,9,6,8
+130713,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,No,No,No,No,Yes,No,boa,5,15,Yes,mulher,8,high school,7
+105040,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,31,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,6,7
+109051,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,30,No,No,No,Yes,Yes,No,No,No,No,boa,0,0,Yes,homem,9,high school,6
+203367,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,ruim,0,30,Yes,mulher,5,College,7
+97134,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,No,Yes,boa,0,0,No,mulher,9,high school,3
+252367,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,4,No,mulher,1,6,8
+187666,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,6,College,7
+108805,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,3,No,mulher,9,College,8
+20865,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,Yes,Yes,No,Yes,No,Yes,No,regular,0,30,No,homem,12,high school,8
+158933,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,muito boa,2,0,No,mulher,7,College,5
+181939,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,No,No,No,No,Yes,No,boa,0,10,No,mulher,6,College,7
+21358,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,Yes,Yes,No,boa,0,2,No,mulher,12,6,7
+61909,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,No,Yes,No,Yes,No,ruim,30,12,Yes,mulher,10,6,6
+237882,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,42,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,muito boa,0,0,No,mulher,3,College,5
+19864,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,55,Yes,No,No,No,No,Yes,No,Yes,No,regular,0,11,Yes,mulher,12,high school,4
+51201,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,11,6,8
+62876,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,4,0,No,homem,10,high school,8
+200212,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,49,Yes,No,No,No,Yes,Yes,No,Yes,Yes,regular,30,30,Yes,mulher,5,high school,6
+14193,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,13,6,4
+157801,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,No,Yes,Yes,No,Yes,No,ruim,20,30,No,homem,7,high school,5
+93583,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,College,8
+190673,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,30,10,No,mulher,6,College,8
+122441,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,No,Yes,No,Yes,No,boa,30,0,No,mulher,8,6,8
+195268,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,6,6,6
+82710,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,19,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,3,0,No,mulher,10,6,8
+57420,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,No,No,Yes,No,Yes,No,boa,0,30,No,homem,10,high school,8
+162082,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,7,6,6
+66610,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,15,No,mulher,10,6,5
+223883,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,5,5,No,mulher,4,6,8
+30137,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,2,0,No,mulher,12,high school,6
+69797,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,10,6,3
+57784,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,40,No,No,No,Yes,No,No,No,Yes,No,regular,15,5,Yes,mulher,10,9 a 11 anos de estudo,5
+172518,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,19,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,20,Yes,mulher,7,high school,1
+36743,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,Yes,homem,11,9 a 11 anos de estudo,6
+41244,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,No,No,Yes,No,Yes,Yes,excelente,0,2,No,homem,11,high school,7
+138804,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,35,Yes,No,Yes,No,No,No,No,Yes,No,boa,3,30,Yes,homem,8,College,3
+182781,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,No,Yes,Yes,No,No,Yes,regular,2,15,No,homem,6,College,2
+129152,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,1,No,mulher,8,high school,7
+33128,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,Yes,No,No,No,No,Yes,No,boa,0,0,No,homem,12,6,8
+105189,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,30,30,No,mulher,9,6,8
+82167,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,0,2,No,homem,10,6,7
+139150,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,0,0,No,homem,8,6,8
+125588,pre-diabetes ou diabetes,High BP,High cholesterol,No cholesterol check in 5 years,28,Yes,No,Yes,No,No,No,No,No,Yes,ruim,0,25,Yes,homem,8,College,5
+82456,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,2,No,homem,10,6,8
+34371,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,34,Yes,Yes,Yes,No,Yes,No,No,Yes,No,ruim,30,30,Yes,homem,11,6,8
+101355,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,9,6,7
+194404,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,3,0,No,mulher,6,6,8
+235405,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,45,No,No,No,Yes,Yes,Yes,No,No,Yes,regular,0,30,Yes,mulher,3,College,1
+173241,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,7,6,8
+163098,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,No,No,No,Yes,Yes,muito boa,0,0,No,mulher,7,high school,7
+54703,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,11,high school,6
+16852,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,5,0,No,mulher,13,6,8
+252432,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,1,6,8
+107095,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,College,8
+46383,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,Yes,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,11,6,8
+123983,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,8,6,8
+30135,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,No,No,Yes,Yes,Yes,No,No,Yes,No,muito boa,0,0,No,mulher,12,high school,4
+251835,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,41,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,2,0,No,homem,1,6,6
+75554,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,7,0,No,homem,10,6,5
+164625,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,0,0,No,mulher,7,6,6
+240295,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,3,College,2
+149970,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,mulher,8,6,7
+114335,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,No,Yes,No,Yes,No,boa,0,0,No,homem,9,College,6
+236275,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,3,6,8
+157444,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,1,No,homem,7,6,8
+191596,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,2,1,No,mulher,6,6,8
+16954,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,regular,0,5,Yes,homem,13,9 a 11 anos de estudo,5
+124824,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,mulher,8,College,7
+242241,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,0,2,No,homem,2,College,5
+19004,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,12,6,6
+250192,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,No,Yes,No,Yes,Yes,excelente,0,0,No,mulher,1,6,8
+40975,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,11,6,8
+109137,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,6,8
+145201,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,No,No,Yes,No,boa,0,2,No,mulher,8,high school,6
+57951,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,No,No,Yes,No,Yes,No,muito boa,1,0,No,homem,10,College,7
+3136,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,3,Yes,mulher,13,6,7
+16121,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,Yes,No,No,Yes,Yes,No,Yes,No,regular,0,9,Yes,mulher,13,College,4
+35070,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,11,6,5
+96408,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,9,6,5
+22450,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,No,No,Yes,Yes,regular,0,0,No,mulher,12,high school,6
+175980,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,5,5,No,mulher,7,College,5
+9926,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,13,high school,3
+250421,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,No,No,Yes,Yes,No,boa,0,5,No,mulher,1,high school,7
+6750,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,21,No,No,No,Yes,No,Yes,No,Yes,No,boa,12,0,Yes,mulher,13,6,4
+25501,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,No,No,No,No,Yes,No,regular,10,20,Yes,mulher,12,College,5
+128227,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,No,No,No,No,Yes,No,regular,0,4,No,homem,8,high school,7
+142036,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,No,Yes,No,Yes,Yes,excelente,15,0,No,homem,8,6,5
+29351,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,18,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,30,No,homem,12,6,5
+138193,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,Yes,No,Yes,No,boa,1,4,No,homem,8,6,7
+168586,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,homem,7,6,8
+201647,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,Yes,No,Yes,Yes,boa,5,5,Yes,mulher,5,6,1
+117511,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,19,Yes,No,Yes,No,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,6,8
+179015,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,47,Yes,No,No,No,No,No,No,Yes,No,regular,30,15,Yes,homem,7,high school,2
+95422,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,No,No,No,No,No,excelente,0,0,No,mulher,9,College,7
+76846,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,10,6,6
+220772,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,No,No,Yes,No,Yes,No,muito boa,0,0,No,homem,4,high school,8
+134238,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,8,high school,8
+21411,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,No,No,Yes,No,Yes,No,boa,0,20,No,homem,12,9 a 11 anos de estudo,7
+106776,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,9,College,5
+48209,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,2,0,No,mulher,11,high school,4
+25487,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,18,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,25,No,mulher,12,6,7
+34420,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,30,No,mulher,11,6,8
+165929,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,No,No,No,No,Yes,No,muito boa,3,0,No,homem,7,high school,6
+225746,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,5,No,mulher,4,College,8
+107472,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,9,6,6
+14096,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,3,No,mulher,13,6,8
+193738,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,6,6,8
+144623,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,College,5
+22061,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,12,6,3
+250854,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,4,0,No,homem,1,College,4
+135457,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,No,Yes,No,No,No,Yes,muito boa,21,20,No,mulher,8,high school,5
+247420,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,2,College,4
+217400,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,4,College,3
+27782,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,No,Yes,Yes,No,Yes,No,muito boa,3,0,No,homem,12,high school,7
+53750,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,3,2,No,homem,11,College,2
+70104,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,10,6,7
+192946,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,2,No,homem,6,6,8
+106441,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,No,No,No,regular,0,30,No,mulher,9,6,2
+218874,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,2,0,No,homem,4,high school,8
+62842,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,ruim,30,30,Yes,mulher,10,College,2
+62055,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,10,high school,3
+183060,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,6,6,8
+42879,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,5,0,No,homem,11,6,7
+10330,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,22,Yes,No,Yes,No,Yes,Yes,No,Yes,No,boa,0,20,No,homem,13,College,7
+170862,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,5,0,No,homem,7,high school,8
+18111,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,38,No,No,No,No,Yes,No,No,Yes,No,muito boa,0,4,No,mulher,12,College,7
+20834,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,12,6,8
+174189,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,43,No,No,No,Yes,No,No,Yes,Yes,No,muito boa,0,1,No,mulher,7,6,8
+98102,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,9,6,5
+159713,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,No,No,No,Yes,Yes,No,boa,0,0,No,homem,7,high school,7
+246196,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,No,No,No,Yes,No,boa,0,0,No,homem,2,6,4
+101340,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,No,No,No,No,Yes,No,ruim,0,30,No,homem,9,high school,4
+140786,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,College,8
+168280,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,1,No,mulher,7,6,7
+245415,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,2,high school,6
+128346,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,8,6,8
+3810,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,22,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,13,College,6
+110857,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,9,high school,6
+6771,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,13,6,5
+10171,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,No,Yes,No,No,Yes,No,boa,0,7,Yes,mulher,13,9 a 11 anos de estudo,4
+60056,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,37,No,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,10,1 a 8 anos de estudo,7
+202532,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,25,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,5,6,8
+219233,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,No,No,No,Yes,No,boa,30,0,No,homem,4,6,7
+147901,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,No,No,Yes,No,muito boa,0,10,No,homem,8,6,8
+105499,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,39,No,No,No,No,Yes,Yes,No,Yes,No,boa,8,2,Yes,mulher,9,College,8
+198245,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,25,No,No,No,No,No,No,No,Yes,No,excelente,0,0,No,homem,6,high school,7
+36963,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,33,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,ruim,6,24,Yes,mulher,11,6,6
+182277,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,1,5,No,mulher,6,College,7
+203493,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,5,College,7
+53114,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,homem,11,6,8
+69152,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,19,No,No,No,Yes,No,No,No,Yes,No,regular,3,30,No,mulher,10,6,7
+196437,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,35,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,6,6,8
+157222,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,59,No,No,No,No,No,No,No,Yes,No,boa,2,0,No,homem,7,high school,8
+82527,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,10,6,8
+160191,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,No,Yes,No,Yes,No,regular,0,0,No,mulher,7,high school,1
+227366,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,No,No,Yes,Yes,No,muito boa,10,0,No,mulher,4,College,6
+61906,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,10,College,8
+201336,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,35,No,No,No,No,Yes,Yes,No,Yes,No,regular,0,0,No,mulher,5,high school,5
+51071,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,No,No,Yes,No,Yes,No,regular,0,30,Yes,mulher,11,College,5
+242565,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,No,Yes,Yes,Yes,No,muito boa,1,0,No,mulher,2,6,8
+199109,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,No,No,No,No,Yes,No,boa,0,0,No,mulher,6,6,5
+242913,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,40,No,No,No,No,No,Yes,No,Yes,Yes,boa,20,10,No,mulher,2,College,7
+95193,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,high school,8
+163486,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,mulher,7,high school,7
+108947,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,39,No,Yes,No,No,No,Yes,No,Yes,No,boa,3,12,Yes,homem,9,6,8
+184463,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,No,Yes,Yes,No,Yes,No,boa,5,0,No,mulher,6,College,6
+103127,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,No,Yes,No,Yes,No,boa,2,0,No,homem,9,6,8
+116713,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,6,7
+107249,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,No,No,No,No,Yes,No,muito boa,0,0,No,homem,9,high school,8
+107290,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,9,6,7
+45027,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,11,6,8
+86202,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,0,30,No,homem,10,6,8
+97273,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,No,Yes,Yes,Yes,No,No,Yes,No,ruim,30,30,Yes,homem,9,1 a 8 anos de estudo,6
+23700,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,No,Yes,Yes,No,Yes,No,ruim,0,30,Yes,homem,12,College,5
+108086,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,No,Yes,No,No,Yes,No,muito boa,0,0,No,mulher,9,College,6
+12478,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,No,Yes,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,13,high school,4
+28515,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,Yes,Yes,No,Yes,No,No,No,boa,0,0,No,homem,12,high school,2
+20977,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,Yes,No,No,Yes,No,Yes,No,ruim,0,30,No,homem,12,high school,2
+248366,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,4,0,No,mulher,1,high school,2
+55250,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,11,6,7
+210825,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,No,No,No,Yes,No,excelente,5,2,No,homem,5,College,8
+124899,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,ruim,30,30,Yes,mulher,8,9 a 11 anos de estudo,1
+124632,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,muito boa,0,0,No,mulher,8,high school,7
+79734,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,Yes,homem,10,6,8
+125096,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,36,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,8,6,5
+4703,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,13,6,6
+51548,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,11,6,7
+215566,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,7,0,No,mulher,4,high school,1
+94033,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,Yes,No,Yes,No,Yes,Yes,No,Yes,No,ruim,0,30,Yes,mulher,9,1 a 8 anos de estudo,1
+122059,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,No,No,No,No,Yes,No,regular,0,0,Yes,homem,9,high school,6
+41112,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,35,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,11,6,8
+206436,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,5,0,No,homem,5,College,5
+31844,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,mulher,12,6,6
+48766,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,11,6,8
+59712,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,36,No,No,Yes,Yes,No,Yes,No,Yes,No,regular,0,14,No,homem,10,College,5
+82971,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,No,No,Yes,No,boa,0,0,No,mulher,10,high school,8
+224059,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,Yes,No,Yes,No,Yes,No,ruim,10,15,No,mulher,4,College,7
+195914,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,No,No,No,Yes,No,muito boa,8,0,No,homem,6,6,8
+54296,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,53,No,No,No,No,Yes,Yes,No,Yes,No,ruim,30,30,Yes,mulher,11,high school,4
+113265,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,No,No,Yes,No,Yes,Yes,boa,20,20,No,mulher,9,College,5
+241268,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,No,No,Yes,Yes,Yes,boa,10,0,No,mulher,2,College,3
+63645,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,Yes,No,No,Yes,No,Yes,No,ruim,0,14,No,homem,10,high school,2
+176357,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,7,6,8
+241316,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,2,College,6
+173545,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,7,College,8
+135855,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,3,No,mulher,8,College,4
+236960,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,0,0,No,mulher,3,6,8
+161126,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,7,College,6
+51,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,No,No,No,Yes,No,boa,0,0,No,homem,13,6,4
+68716,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,35,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,10,College,5
+179962,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,No,Yes,No,Yes,No,ruim,5,30,Yes,mulher,6,high school,6
+115421,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,2,0,No,mulher,9,6,7
+127067,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,Yes,No,Yes,Yes,No,Yes,No,ruim,3,25,Yes,homem,8,high school,2
+21283,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,12,6,8
+125747,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,30,30,No,mulher,8,College,6
+70143,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,1,0,No,homem,10,6,6
+11896,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,13,6,8
+181089,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,Yes,No,No,Yes,Yes,boa,0,0,No,homem,6,9 a 11 anos de estudo,1
+45778,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,Yes,No,No,Yes,No,Yes,No,regular,2,6,No,homem,11,6,7
+212208,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,35,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,5,high school,7
+204689,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,37,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,5,high school,7
+143988,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,boa,15,0,No,mulher,8,6,5
+8681,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,14,Yes,mulher,13,high school,3
+77452,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,No,Yes,Yes,No,Yes,No,excelente,0,0,Yes,mulher,10,high school,2
+112350,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,Yes,No,No,No,No,Yes,No,ruim,0,30,Yes,mulher,9,6,2
+172850,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,No,No,No,Yes,Yes,No,muito boa,0,0,No,homem,7,high school,6
+241602,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,7,2,No,mulher,2,6,8
+241477,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,No,No,No,Yes,boa,14,0,No,mulher,2,high school,4
+187612,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,No,Yes,No,Yes,No,muito boa,0,1,No,mulher,6,College,7
+10406,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,No,No,Yes,No,boa,0,0,No,mulher,13,9 a 11 anos de estudo,3
+136726,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,No,No,No,Yes,No,excelente,0,0,No,mulher,8,College,8
+15519,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,30,0,No,homem,13,6,8
+232088,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,regular,15,30,No,homem,3,College,6
+129596,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,8,College,7
+22778,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,12,high school,5
+242851,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,2,6,8
+182496,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,2,No,mulher,6,College,7
+40489,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,22,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,11,6,8
+119123,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,10,5,No,homem,9,6,8
+234954,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,3,6,7
+168727,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,29,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,2,No,homem,7,6,6
+151693,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,No,Yes,No,No,No,muito boa,0,0,No,mulher,8,College,8
+110600,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,9,6,8
+13351,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,39,No,Yes,No,No,No,No,No,Yes,No,muito boa,3,0,Yes,mulher,13,6,7
+123702,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,No,No,No,No,Yes,No,boa,0,0,No,homem,8,College,8
+76326,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,No,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,10,College,8
+211463,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,40,No,No,No,Yes,No,Yes,No,No,Yes,boa,0,0,No,homem,5,College,6
+212559,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,No,Yes,No,Yes,No,muito boa,4,2,No,homem,5,6,8
+217452,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,4,high school,5
+249233,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,No,No,No,No,Yes,No,excelente,0,0,No,mulher,1,high school,5
+22660,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,12,6,6
+968,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,20,No,Yes,Yes,Yes,No,Yes,No,Yes,No,boa,0,3,Yes,mulher,13,6,5
+124229,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,8,College,7
+49717,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,0,0,No,homem,11,9 a 11 anos de estudo,8
+233216,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,3,6,5
+111732,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,35,Yes,No,No,Yes,No,No,No,Yes,No,muito boa,0,30,Yes,homem,9,high school,6
+121411,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,College,7
+172210,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,7,high school,8
+138771,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,No,No,Yes,Yes,No,boa,20,0,No,mulher,8,high school,6
+175560,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,7,6,8
+123119,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,51,No,No,No,Yes,No,No,No,Yes,No,boa,7,30,No,homem,8,6,3
+24631,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,16,Yes,Yes,No,No,Yes,Yes,No,Yes,No,regular,0,0,No,mulher,12,high school,1
+214614,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,2,3,No,mulher,5,6,8
+1622,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,0,10,No,homem,13,1 a 8 anos de estudo,6
+56168,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,No,No,Yes,No,boa,2,0,No,homem,11,6,7
+4502,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,No,No,Yes,Yes,Yes,Yes,No,Yes,No,ruim,0,30,No,homem,13,6,8
+129798,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,Yes,No,No,No,Yes,No,boa,0,1,No,homem,8,College,8
+235084,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,35,No,No,No,No,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,3,high school,7
+176242,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,7,College,5
+252419,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,20,No,No,No,No,No,Yes,No,Yes,No,excelente,0,0,No,mulher,1,6,1
+225266,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,3,0,No,homem,4,6,8
+35104,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,No,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,11,high school,6
+169344,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,7,6,6
+191290,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,10,0,No,mulher,6,6,6
+55621,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,2,No,homem,11,6,8
+18370,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,No,No,Yes,No,regular,0,6,No,homem,12,1 a 8 anos de estudo,7
+136413,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,21,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,mulher,8,6,6
+17032,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,No,Yes,No,No,Yes,No,excelente,1,0,Yes,mulher,13,6,6
+136676,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,No,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,8,6,8
+62727,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,46,No,No,No,No,No,Yes,No,Yes,No,regular,3,6,Yes,homem,10,6,6
+61837,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,39,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,10,25,Yes,mulher,10,6,4
+38906,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,Yes,No,Yes,Yes,No,Yes,No,regular,5,7,Yes,mulher,11,6,5
+127480,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,37,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,2,1,No,mulher,8,College,6
+211303,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,2,3,No,mulher,5,College,7
+238709,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,10,7,No,homem,3,6,8
+142361,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,No,No,boa,0,4,No,homem,8,College,4
+44491,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,11,6,8
+78307,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,homem,10,6,8
+170080,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,7,College,6
+243971,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,2,6,8
+87124,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,39,No,No,No,Yes,No,No,No,Yes,No,muito boa,5,1,No,homem,10,6,7
+65384,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,10,6,8
+77850,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,40,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,1,Yes,mulher,10,College,6
+242680,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,2,high school,6
+87180,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,No,Yes,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,10,6,8
+173054,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,2,0,No,homem,7,6,8
+212214,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,0,7,No,mulher,5,College,8
+177970,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,3,1,No,mulher,7,College,8
+187719,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,6,6,8
+45500,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,2,0,No,mulher,11,6,8
+108936,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,18,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,9,6,5
+171597,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,12,1,No,mulher,7,6,7
+231948,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,37,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,5,0,No,homem,3,9 a 11 anos de estudo,7
+31414,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,No,No,Yes,No,Yes,No,excelente,0,0,No,mulher,12,College,8
+39117,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,34,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,2,30,Yes,homem,11,high school,3
+107057,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,34,No,No,No,No,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,9,high school,5
+164871,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,7,College,8
+49928,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,No,Yes,Yes,Yes,No,regular,20,20,No,mulher,11,6,8
+24588,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,No,Yes,No,No,Yes,No,boa,0,30,No,homem,12,1 a 8 anos de estudo,6
+22689,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,Yes,Yes,Yes,No,Yes,No,Yes,No,muito boa,0,15,Yes,mulher,12,high school,5
+127572,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,8,6,8
+12289,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,No,No,Yes,Yes,Yes,Yes,No,Yes,No,regular,0,0,No,homem,13,6,8
+166319,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,No,Yes,Yes,Yes,No,muito boa,0,0,No,mulher,7,6,8
+207922,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,38,No,No,No,No,No,No,No,No,No,boa,0,0,No,homem,5,high school,6
+150102,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,8,9 a 11 anos de estudo,8
+248521,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,2,0,No,homem,1,high school,8
+6825,sem diabetes,High BP,No high cholesterol,No cholesterol check in 5 years,33,Yes,No,No,No,Yes,No,No,Yes,No,muito boa,0,2,No,homem,13,high school,8
+104940,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,9,College,8
+163203,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,7,6,8
+10817,sem diabetes,High BP,High cholesterol,No cholesterol check in 5 years,23,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,13,high school,4
+30931,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,12,6,8
+138045,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,No,No,boa,0,1,No,mulher,8,6,6
+109016,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,Yes,No,No,Yes,Yes,No,muito boa,0,0,No,homem,9,high school,7
+76989,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,0,0,No,mulher,10,6,8
+37964,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,Yes,No,No,Yes,Yes,No,Yes,No,boa,5,3,Yes,mulher,11,6,7
+124009,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,4,10,Yes,mulher,8,College,8
+203358,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,No,Yes,No,No,Yes,No,excelente,0,0,No,homem,5,6,8
+19273,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,12,high school,7
+48934,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,0,0,No,homem,11,1 a 8 anos de estudo,5
+167086,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,mulher,7,high school,7
+144947,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,No,No,Yes,No,Yes,No,boa,0,0,No,homem,8,high school,8
+199591,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,34,No,No,No,Yes,Yes,No,No,Yes,No,boa,2,10,Yes,mulher,5,6,5
+205384,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,35,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,5,College,8
+224821,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,39,No,No,No,Yes,Yes,Yes,No,Yes,Yes,regular,30,5,No,mulher,4,College,4
+217068,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,No,No,No,No,No,boa,3,0,No,homem,4,College,4
+156098,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,No,No,Yes,Yes,No,regular,0,10,Yes,homem,7,College,4
+219657,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,No,Yes,Yes,Yes,Yes,No,boa,20,5,No,mulher,4,College,8
+26744,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,Yes,Yes,No,No,No,Yes,No,boa,0,0,No,homem,12,high school,5
+97040,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,2,0,No,mulher,9,6,4
+241132,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,38,No,No,No,Yes,No,Yes,No,Yes,No,boa,10,0,No,mulher,2,6,8
+248119,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,10,2,No,homem,1,high school,8
+79002,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,10,College,7
+239085,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,1,0,No,mulher,3,6,8
+194023,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,6,high school,7
+235058,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,3,0,No,mulher,3,high school,5
+8374,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,18,No,No,No,No,No,No,No,Yes,No,regular,0,0,Yes,mulher,13,high school,2
+111459,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,20,0,No,homem,9,6,8
+239939,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,18,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,2,0,No,mulher,3,6,8
+202617,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,19,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,3,0,No,mulher,5,6,7
+167079,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,7,College,8
+180432,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,37,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,6,6,8
+17645,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,25,No,mulher,12,high school,2
+92745,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,2,No,homem,9,high school,7
+243783,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,36,Yes,No,No,Yes,No,Yes,No,Yes,Yes,boa,0,3,No,mulher,2,College,8
+136845,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,8,College,6
+12373,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,23,No,Yes,Yes,Yes,No,Yes,No,Yes,No,boa,0,3,Yes,homem,13,6,5
+243148,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,2,6,8
+174379,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,4,No,homem,7,high school,5
+77091,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,Yes,No,Yes,No,Yes,No,Yes,No,regular,0,20,Yes,mulher,10,high school,4
+78433,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,No,Yes,Yes,No,Yes,No,boa,0,0,Yes,mulher,10,6,8
+155352,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,No,No,No,No,Yes,No,muito boa,0,0,No,homem,7,College,2
+57328,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,21,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,ruim,2,30,Yes,mulher,10,6,7
+221443,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,No,No,Yes,Yes,muito boa,4,1,No,homem,4,College,4
+36254,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,34,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,10,No,mulher,11,College,6
+210973,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,Yes,No,No,Yes,No,regular,0,4,Yes,homem,5,6,8
+88970,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,No,No,No,No,Yes,Yes,No,Yes,Yes,regular,30,14,No,mulher,10,1 a 8 anos de estudo,1
+230397,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,36,Yes,No,No,Yes,No,No,No,Yes,No,boa,2,0,No,homem,3,high school,6
+26413,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,12,College,6
+105634,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,5,5,No,homem,9,College,7
+139880,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,Yes,Yes,No,muito boa,0,0,No,mulher,8,6,8
+246138,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,mulher,2,6,8
+160112,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,No,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,7,high school,7
+141372,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,8,6,8
+96459,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,No,Yes,Yes,No,Yes,No,excelente,0,30,Yes,mulher,9,6,8
+5197,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,Yes,No,No,Yes,No,No,Yes,No,regular,0,30,Yes,mulher,13,6,1
+161517,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,No,Yes,Yes,No,Yes,No,muito boa,10,0,No,mulher,7,high school,8
+194236,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,2,Yes,homem,6,6,8
+107964,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,9,high school,7
+132451,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,23,No,No,No,Yes,No,Yes,No,Yes,Yes,muito boa,2,1,No,mulher,8,high school,6
+164537,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,Yes,Yes,No,No,Yes,boa,2,15,No,homem,7,6,4
+20111,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,12,College,5
+203449,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,0,0,No,homem,5,6,8
+216543,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,0,0,No,mulher,4,6,8
+85283,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,34,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,Yes,mulher,10,6,7
+219857,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,38,Yes,No,No,Yes,No,Yes,Yes,Yes,No,boa,0,3,No,homem,4,College,8
+32801,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,12,6,6
+179129,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,No,Yes,Yes,No,Yes,No,boa,0,14,No,mulher,7,high school,5
+144796,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,No,No,No,Yes,No,boa,1,1,No,homem,8,6,5
+56082,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,19,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,11,high school,5
+127090,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,No,No,Yes,No,Yes,No,boa,30,20,Yes,mulher,8,high school,1
+188529,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,14,No,homem,6,College,8
+56637,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,No,No,Yes,No,boa,30,5,Yes,mulher,11,high school,4
+30030,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,No,Yes,Yes,No,Yes,No,boa,0,0,No,homem,12,high school,6
+137152,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,regular,0,2,No,homem,8,high school,3
+229139,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,No,Yes,Yes,Yes,No,No,boa,0,0,No,homem,4,6,5
+125033,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,Yes,No,No,Yes,No,Yes,No,regular,0,4,Yes,homem,8,9 a 11 anos de estudo,5
+232566,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,3,high school,8
+2703,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,No,Yes,No,No,Yes,No,boa,0,3,Yes,homem,13,6,7
+61407,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,39,No,No,No,Yes,No,No,No,Yes,No,boa,0,0,Yes,homem,10,6,8
+23142,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,0,0,No,mulher,12,College,5
+64436,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,36,Yes,No,Yes,No,No,No,No,Yes,No,boa,0,14,Yes,mulher,10,9 a 11 anos de estudo,2
+151756,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,high school,6
+1754,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,Yes,Yes,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,13,high school,8
+61713,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,10,6,8
+96706,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,36,No,No,No,No,Yes,No,No,Yes,No,excelente,0,0,No,homem,9,6,7
+177104,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,7,6,8
+50971,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,2,0,No,homem,11,6,6
+198383,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,33,No,Yes,Yes,Yes,No,No,No,Yes,No,regular,15,30,No,homem,6,high school,2
+132532,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,high school,5
+243952,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,38,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,3,0,No,homem,2,6,6
+228279,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,18,No,No,No,No,No,No,No,Yes,No,muito boa,5,0,No,homem,4,6,8
+84539,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,1,4,Yes,mulher,10,College,2
+212096,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,5,6,5
+236478,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,3,6,8
+22777,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,No,No,Yes,No,Yes,No,muito boa,0,15,Yes,mulher,12,high school,4
+200388,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,44,Yes,No,No,Yes,No,Yes,No,Yes,No,regular,4,21,Yes,homem,5,high school,1
+43094,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,11,high school,5
+159025,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,3,0,Yes,mulher,7,College,6
+167625,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,No,No,Yes,No,boa,0,0,No,homem,7,College,4
+112341,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,23,No,No,Yes,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,9,College,6
+238027,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,No,Yes,Yes,No,Yes,No,excelente,0,3,No,mulher,3,College,8
+40518,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,11,6,3
+188539,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,3,0,No,mulher,6,6,8
+115890,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,College,8
+208788,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,5,6,8
+67094,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,No,Yes,Yes,No,Yes,No,regular,29,29,No,homem,10,College,2
+84017,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,10,high school,4
+82502,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,homem,10,6,7
+152829,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,No,No,No,No,Yes,Yes,ruim,15,6,Yes,mulher,8,high school,1
+162022,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,7,high school,7
+202204,sem diabetes,No high,High cholesterol,No cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,0,0,No,mulher,5,6,8
+45262,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,Yes,No,Yes,Yes,No,No,Yes,No,muito boa,0,5,No,mulher,11,6,4
+53177,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,No,No,No,Yes,No,muito boa,30,0,No,mulher,11,6,6
+129530,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,No,Yes,Yes,Yes,No,muito boa,5,0,No,mulher,8,6,8
+107230,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,3,2,No,homem,9,6,8
+214998,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,5,6,8
+190724,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,6,6,8
+54964,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,11,9 a 11 anos de estudo,3
+194803,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,43,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,4,2,No,mulher,6,College,8
+181521,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,24,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,10,0,No,mulher,6,9 a 11 anos de estudo,7
+108505,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,19,No,No,No,No,Yes,Yes,No,No,No,muito boa,0,0,No,mulher,9,6,5
+21061,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,37,No,No,No,Yes,Yes,No,No,Yes,No,boa,0,0,No,homem,12,high school,4
+32766,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,12,College,6
+90482,pre-diabetes ou diabetes,High BP,No high cholesterol,No cholesterol check in 5 years,21,No,No,No,No,No,No,No,Yes,No,boa,0,7,Yes,homem,9,6,2
+8564,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,22,Yes,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,13,high school,4
+148747,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,17,Yes,No,No,No,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,6,8
+41986,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,2,No,mulher,11,College,2
+48966,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,11,6,5
+191636,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,No,Yes,Yes,Yes,No,boa,0,0,No,homem,6,high school,6
+47737,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,No,No,Yes,No,boa,0,0,No,mulher,11,College,7
+28781,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,12,6,6
+147869,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,1,0,No,mulher,8,College,6
+16310,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,No,Yes,Yes,No,Yes,No,ruim,2,15,Yes,homem,13,high school,6
+193566,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,6,6,4
+26208,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,No,Yes,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,5,No,mulher,12,6,4
+202716,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,boa,0,0,No,homem,5,College,6
+220220,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,No,No,No,Yes,No,boa,0,0,No,homem,4,high school,8
+168681,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,No,No,No,Yes,No,muito boa,1,0,No,mulher,7,high school,6
+76105,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,Yes,Yes,No,No,No,No,Yes,Yes,regular,15,30,Yes,homem,10,6,6
+83530,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,10,College,7
+210068,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,5,6,8
+58682,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,14,No,mulher,10,6,6
+92801,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,7,Yes,mulher,9,9 a 11 anos de estudo,1
+151433,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,1,No,mulher,8,College,6
+53744,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,5,Yes,mulher,11,6,7
+150841,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,3,No,mulher,8,6,6
+199798,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,67,No,No,No,Yes,No,No,No,Yes,No,regular,6,6,Yes,mulher,5,high school,1
+91898,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,2,0,No,homem,9,6,7
+183987,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,2,0,No,mulher,6,6,8
+168117,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,No,No,Yes,No,muito boa,0,0,No,homem,7,6,7
+7964,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,13,high school,5
+129865,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,19,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,8,6,8
+184587,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,1,1,Yes,homem,6,College,8
+100380,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,5,10,Yes,mulher,9,6,6
+183103,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,6,6,8
+213748,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,1,No,homem,5,College,8
+206494,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,2,No,homem,5,6,8
+157028,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,Yes,No,No,Yes,regular,30,14,Yes,mulher,7,high school,1
+163261,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,31,Yes,No,No,Yes,No,Yes,No,Yes,No,regular,0,2,No,homem,7,9 a 11 anos de estudo,7
+103325,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,30,No,homem,9,6,8
+185631,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,6,6,8
+51926,sem diabetes,High BP,High cholesterol,No cholesterol check in 5 years,30,No,No,No,No,No,Yes,No,Yes,No,boa,0,0,No,mulher,11,high school,5
+182484,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,No,Yes,Yes,Yes,No,boa,12,4,No,homem,6,high school,6
+126689,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,5,3,No,homem,8,College,8
+25509,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,5,Yes,mulher,12,high school,6
+56783,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,No,Yes,No,No,Yes,No,regular,0,0,No,mulher,11,high school,1
+70393,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,No,Yes,No,No,Yes,No,muito boa,0,0,No,mulher,10,College,7
+155886,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,No,No,No,No,Yes,Yes,ruim,0,30,Yes,homem,7,9 a 11 anos de estudo,7
+246742,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,homem,2,College,6
+253616,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,No,No,Yes,No,excelente,0,0,No,homem,1,College,3
+202069,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,25,0,No,mulher,5,6,8
+128295,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,8,6,8
+142994,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,8,6,8
+63236,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,Yes,No,Yes,Yes,No,Yes,No,Yes,No,excelente,0,10,No,homem,10,6,8
+232169,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,No,No,No,Yes,Yes,boa,0,0,No,homem,3,6,8
+2831,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,13,1 a 8 anos de estudo,2
+25070,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,No,Yes,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,12,6,8
+50859,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,18,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,11,high school,6
+222575,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,No,No,muito boa,0,0,No,homem,4,6,3
+101649,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,No,No,No,No,Yes,Yes,No,Yes,No,boa,30,0,No,homem,9,6,7
+170028,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,34,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,3,No,homem,7,College,8
+29376,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,No,No,Yes,Yes,Yes,Yes,No,Yes,No,boa,0,15,Yes,homem,12,6,5
+18832,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,12,6,7
+2914,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,41,No,No,No,Yes,No,No,No,Yes,No,boa,0,0,No,homem,13,6,6
+139143,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,8,6,7
+44497,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,35,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,11,high school,5
+148663,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,48,No,No,No,No,Yes,Yes,No,Yes,No,boa,0,0,Yes,mulher,8,high school,5
+163174,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,40,No,No,No,No,No,Yes,No,Yes,No,regular,10,15,No,homem,7,College,4
+84498,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,No,No,No,Yes,No,excelente,0,0,No,homem,10,College,7
+237325,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,mulher,3,6,8
+182067,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,40,No,No,No,Yes,Yes,Yes,No,Yes,No,ruim,30,2,Yes,mulher,6,high school,1
+20255,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,No,Yes,Yes,No,Yes,No,regular,4,2,Yes,mulher,12,6,7
+82214,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,No,No,excelente,0,0,No,homem,10,6,4
+229490,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,3,College,7
+210666,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,5,6,8
+233355,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,No,Yes,Yes,No,muito boa,5,1,No,mulher,3,6,8
+75039,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,Yes,Yes,No,Yes,No,ruim,0,30,Yes,mulher,10,6,6
+13518,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,regular,0,30,No,homem,13,6,6
+188735,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,No,Yes,No,No,Yes,Yes,No,Yes,No,ruim,30,20,Yes,mulher,6,College,2
+63634,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,10,College,7
+87014,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,10,6,4
+180283,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,10,0,Yes,mulher,6,6,4
+173521,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,No,No,No,Yes,No,excelente,5,3,No,mulher,7,high school,5
+112368,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,36,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,9 a 11 anos de estudo,7
+110864,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,No,Yes,Yes,No,Yes,No,regular,0,30,Yes,mulher,9,6,8
+240001,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,boa,10,10,No,mulher,3,high school,7
+192701,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,No,Yes,Yes,No,Yes,No,boa,0,5,No,mulher,6,1 a 8 anos de estudo,1
+177925,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,35,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,7,College,6
+3862,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,0,No,homem,13,6,7
+50678,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,11,6,8
+72503,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,10,6,7
+42101,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,No,Yes,Yes,No,Yes,No,excelente,0,3,Yes,mulher,11,high school,5
+14229,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,13,College,8
+123961,pre-diabetes ou diabetes,High BP,High cholesterol,No cholesterol check in 5 years,35,Yes,No,No,Yes,Yes,Yes,No,No,No,muito boa,25,5,No,homem,8,high school,8
+93033,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,38,No,No,No,Yes,No,No,No,Yes,No,ruim,0,30,Yes,homem,9,6,6
+189168,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,No,Yes,No,No,Yes,No,excelente,0,0,No,homem,6,high school,5
+212348,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,No,No,No,Yes,No,muito boa,0,30,Yes,mulher,5,College,4
+130527,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,6,8
+114297,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,College,4
+61524,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,38,No,No,Yes,No,Yes,Yes,No,Yes,No,regular,27,27,No,mulher,10,high school,3
+135046,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,8,6,7
+11472,sem diabetes,No high,High cholesterol,No cholesterol check in 5 years,34,No,No,No,No,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,13,College,8
+139362,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,Yes,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,8,6,8
+185865,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,2,0,No,homem,6,6,8
+194118,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,No,No,Yes,No,Yes,No,regular,30,20,No,mulher,6,6,8
+85402,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,39,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,7,No,mulher,10,6,5
+62442,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,No,Yes,Yes,No,Yes,No,regular,0,30,No,mulher,10,College,4
+166407,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,boa,0,0,No,homem,7,high school,6
+32894,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,12,9 a 11 anos de estudo,4
+57791,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,17,No,No,No,Yes,Yes,Yes,No,Yes,Yes,regular,0,0,Yes,homem,10,9 a 11 anos de estudo,1
+156424,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,7,6,8
+239612,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,homem,3,6,8
+79075,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,22,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,regular,0,30,No,homem,10,6,5
+51934,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,No,No,Yes,Yes,Yes,Yes,No,Yes,No,regular,0,0,No,homem,11,6,7
+64729,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,7,0,No,mulher,10,6,8
+48567,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,11,high school,5
+204682,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,5,6,7
+197006,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,41,No,No,No,Yes,Yes,Yes,No,No,Yes,muito boa,0,2,No,homem,6,high school,8
+170941,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,25,0,No,homem,7,high school,8
+75132,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,10,6,7
+210357,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,No,Yes,No,Yes,No,boa,2,0,No,homem,5,6,7
+90070,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,30,0,Yes,homem,9,6,7
+132446,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,8,College,8
+8105,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,No,Yes,Yes,No,Yes,No,regular,0,10,No,homem,13,College,8
+15327,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,No,No,Yes,No,Yes,Yes,No,Yes,No,regular,30,2,Yes,mulher,13,6,2
+5589,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,No,Yes,No,Yes,No,No,boa,0,0,No,homem,13,1 a 8 anos de estudo,3
+73835,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,10,6,8
+246170,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,No,No,No,Yes,No,muito boa,25,5,No,mulher,2,6,5
+29237,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,Yes,mulher,12,College,2
+220630,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,34,No,No,No,Yes,No,Yes,Yes,Yes,No,muito boa,0,0,No,homem,4,high school,8
+12079,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,8,No,mulher,13,6,7
+13639,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,19,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,15,30,Yes,mulher,13,6,5
+79638,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,No,Yes,No,Yes,No,regular,0,30,No,homem,10,1 a 8 anos de estudo,2
+30456,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,12,high school,4
+48908,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,36,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,0,Yes,homem,11,College,3
+11688,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,13,high school,4
+63844,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,No,No,No,Yes,No,excelente,3,15,No,homem,10,high school,4
+69410,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,ruim,4,22,Yes,mulher,10,6,3
+107200,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,38,Yes,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,9,6,6
+77510,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,10,College,2
+57820,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,34,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,10,high school,7
+29000,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,Yes,Yes,No,Yes,No,Yes,No,muito boa,7,0,Yes,mulher,12,high school,1
+130057,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,5,0,No,mulher,8,6,8
+241864,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,2,No,homem,2,6,8
+10580,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,No,No,No,No,Yes,No,No,Yes,No,boa,7,15,Yes,mulher,13,high school,6
+236429,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,0,2,No,mulher,3,6,5
+235947,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,Yes,No,No,No,No,Yes,muito boa,0,14,No,homem,3,high school,5
+185933,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,14,5,No,homem,6,6,8
+60463,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,Yes,Yes,No,Yes,Yes,No,Yes,No,regular,5,5,Yes,homem,10,College,8
+87813,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,No,No,Yes,No,boa,0,0,No,homem,10,high school,6
+245294,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,2,College,6
+119399,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,2,0,No,homem,9,high school,4
+196408,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,6,6,8
+229002,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,19,Yes,No,No,Yes,Yes,Yes,No,No,No,excelente,0,0,No,mulher,4,6,5
+117219,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,Yes,No,No,No,No,No,Yes,No,regular,0,7,No,homem,9,1 a 8 anos de estudo,2
+131617,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,19,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,8,6,8
+200827,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,5,College,8
+153877,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,No,Yes,No,No,Yes,Yes,No,Yes,No,regular,30,30,No,mulher,7,6,8
+113574,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,College,8
+224468,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,5,0,No,mulher,4,College,3
+214750,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,No,No,No,No,Yes,No,excelente,0,5,No,homem,5,high school,7
+242267,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,3,5,No,homem,2,6,7
+6043,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,13,6,8
+14437,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,No,Yes,Yes,No,Yes,Yes,boa,0,30,Yes,mulher,13,College,6
+202325,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,5,6,8
+73390,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,10,College,8
+53290,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,3,No,mulher,11,College,6
+163780,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,No,No,No,Yes,No,regular,25,15,No,homem,7,high school,4
+118314,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,No,Yes,Yes,No,Yes,Yes,regular,30,30,No,mulher,9,College,4
+75989,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,Yes,Yes,No,Yes,No,regular,0,30,Yes,mulher,10,high school,5
+64746,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,10,6,8
+165030,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,No,No,Yes,Yes,No,excelente,0,0,No,mulher,7,high school,8
+221549,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,2,No,homem,4,6,8
+207546,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,41,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,2,0,No,mulher,5,6,7
+113839,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,muito boa,0,0,No,mulher,9,College,8
+156808,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,37,No,No,Yes,No,Yes,Yes,No,Yes,No,excelente,0,0,Yes,mulher,7,high school,5
+135313,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,8,College,8
+146205,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,homem,8,6,8
+10133,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,17,No,No,Yes,No,Yes,Yes,No,Yes,No,ruim,0,30,Yes,mulher,13,9 a 11 anos de estudo,1
+215458,pre-diabetes ou diabetes,No high,High cholesterol,No cholesterol check in 5 years,31,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,regular,4,10,No,mulher,4,high school,4
+141984,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,3,0,No,mulher,8,6,8
+28039,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,12,6,7
+190188,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,5,1,No,mulher,6,6,7
+236732,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,27,No,No,No,Yes,No,No,No,No,No,excelente,0,6,No,homem,3,9 a 11 anos de estudo,4
+9532,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,No,Yes,Yes,No,No,No,muito boa,0,0,Yes,mulher,13,high school,6
+165184,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,27,27,Yes,mulher,7,6,8
+172270,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,Yes,No,No,No,No,No,Yes,No,boa,0,15,Yes,mulher,7,high school,2
+127159,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,3,20,No,mulher,8,high school,1
+13784,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,19,No,No,Yes,No,No,Yes,No,Yes,No,ruim,0,29,Yes,mulher,13,high school,5
+8420,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,No,No,Yes,No,excelente,0,0,No,mulher,13,6,7
+21964,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,22,Yes,No,Yes,No,No,Yes,No,Yes,No,boa,0,0,No,homem,12,6,7
+53524,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,11,high school,5
+169724,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,19,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,regular,0,0,Yes,mulher,7,high school,4
+244249,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,2,high school,7
+33281,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,No,Yes,Yes,No,Yes,No,regular,0,0,Yes,mulher,12,College,1
+142475,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,3,No,homem,8,6,8
+243876,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,2,0,No,mulher,2,6,6
+136774,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,4,7,Yes,mulher,8,6,8
+218502,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,37,No,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,4,College,7
+197790,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,No,No,No,Yes,No,muito boa,7,1,No,mulher,6,6,7
+205555,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,No,No,Yes,No,Yes,No,excelente,0,2,No,mulher,5,6,8
+273,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,35,Yes,No,No,No,No,Yes,No,Yes,No,regular,0,14,Yes,mulher,13,9 a 11 anos de estudo,2
+22873,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,12,College,5
+132108,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,8,6,3
+161309,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,7,6,8
+225582,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,muito boa,3,0,No,mulher,4,College,5
+92331,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,36,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,0,2,Yes,mulher,9,6,8
+183303,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,0,0,No,homem,6,6,7
+163137,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,7,College,8
+29961,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,Yes,mulher,12,College,8
+68570,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,No,Yes,No,Yes,No,regular,2,1,No,homem,10,6,8
+175166,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,7,College,8
+91295,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,1,20,No,mulher,9,6,8
+37123,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,No,Yes,No,Yes,No,regular,0,0,No,mulher,11,high school,4
+80161,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,Yes,No,Yes,No,excelente,0,14,No,homem,10,6,8
+43332,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,boa,2,2,No,mulher,11,College,6
+220476,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,30,5,No,mulher,4,College,1
+18733,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,0,0,No,mulher,12,high school,5
+60090,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,No,No,Yes,No,regular,15,15,Yes,mulher,10,high school,1
+130484,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,Yes,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,8,College,8
+31254,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,23,No,Yes,No,Yes,No,No,No,Yes,No,boa,0,5,Yes,mulher,12,high school,8
+228182,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,No,No,Yes,No,Yes,No,muito boa,0,0,No,homem,4,6,8
+216792,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,4,6,7
+71697,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,2,No,homem,10,6,4
+98672,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,College,6
+15196,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,13,high school,6
+116646,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,College,7
+105782,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,Yes,No,Yes,Yes,No,No,Yes,Yes,muito boa,0,0,No,homem,9,high school,4
+53927,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,No,Yes,No,No,Yes,boa,0,4,No,homem,11,6,6
+72082,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,10,6,6
+107935,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,9,6,8
+230469,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,3,6,5
+102903,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,35,No,No,Yes,No,No,Yes,No,Yes,No,regular,0,0,No,homem,9,College,8
+5388,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,Yes,No,Yes,No,Yes,Yes,No,Yes,No,muito boa,0,0,Yes,homem,13,College,1
+38810,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,No,Yes,Yes,No,Yes,No,muito boa,1,1,No,homem,11,6,8
+58291,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,Yes,mulher,10,College,1
+196311,sem diabetes,No high,High cholesterol,No cholesterol check in 5 years,24,No,No,No,No,Yes,No,No,Yes,Yes,boa,0,0,No,mulher,6,6,5
+97689,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,0,No,mulher,9,6,7
+353,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,1,0,No,mulher,13,6,8
+224097,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,No,No,No,excelente,0,0,No,homem,4,9 a 11 anos de estudo,6
+245409,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,2,6,6
+120587,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,30,No,homem,9,6,8
+252455,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,No,Yes,Yes,No,Yes,No,boa,0,0,No,homem,1,6,6
+202862,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,No,Yes,Yes,No,No,muito boa,0,0,No,homem,5,6,8
+81718,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,Yes,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,10,high school,4
+79121,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,10,6,7
+195903,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,No,Yes,Yes,Yes,No,muito boa,2,0,No,mulher,6,6,8
+65388,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,10,College,7
+13987,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,No,Yes,No,No,Yes,No,boa,0,0,No,homem,13,9 a 11 anos de estudo,4
+75075,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,10,College,7
+185640,sem diabetes,High BP,High cholesterol,No cholesterol check in 5 years,31,Yes,No,No,No,No,Yes,No,Yes,Yes,ruim,30,30,No,homem,6,high school,6
+224608,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,35,Yes,No,No,No,Yes,No,No,Yes,Yes,muito boa,14,0,No,homem,4,College,6
+39217,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,No,No,Yes,No,Yes,No,boa,0,3,Yes,mulher,11,College,5
+117653,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,No,No,boa,0,0,No,mulher,9,1 a 8 anos de estudo,2
+2550,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,Yes,mulher,13,6,8
+57799,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,Yes,No,Yes,Yes,No,Yes,No,regular,0,10,Yes,homem,10,high school,4
+31195,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,39,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,12,6,8
+251793,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,No,No,muito boa,4,0,No,homem,1,College,8
+216962,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,4,6,8
+180304,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,7,7,No,mulher,6,6,5
+2077,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,Yes,No,Yes,Yes,Yes,Yes,No,muito boa,24,0,Yes,homem,13,College,8
+167862,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,No,No,No,Yes,No,boa,0,0,No,homem,7,6,8
+6532,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,excelente,0,0,No,homem,13,6,8
+143938,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,8,high school,8
+9742,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,No,No,Yes,No,Yes,Yes,No,Yes,No,boa,0,30,No,mulher,13,College,4
+37692,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,30,Yes,mulher,11,9 a 11 anos de estudo,1
+148865,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,No,No,Yes,No,Yes,Yes,boa,0,0,No,mulher,8,College,4
+382,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,43,Yes,No,No,No,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,13,College,6
+32259,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,1,1,No,mulher,12,high school,2
+178160,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,7,6,8
+74209,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,5,Yes,mulher,10,6,4
+153565,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,7,high school,7
+113232,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,Yes,No,No,Yes,No,muito boa,0,0,No,homem,9,College,8
+148701,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,No,No,No,Yes,No,excelente,0,0,No,homem,8,6,6
+123279,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,36,Yes,No,Yes,Yes,No,No,No,Yes,No,boa,0,0,No,homem,8,high school,4
+21549,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,12,6,5
+39316,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,40,No,No,No,No,No,Yes,No,Yes,No,boa,0,0,No,homem,11,6,8
+124655,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,53,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,Yes,mulher,8,high school,4
+143914,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,No,Yes,Yes,No,muito boa,0,0,No,mulher,8,6,8
+153011,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,No,No,Yes,No,boa,0,5,No,mulher,8,College,4
+18023,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,0,No,homem,12,6,8
+46167,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,11,6,8
+253637,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,No,No,Yes,Yes,Yes,No,excelente,0,14,No,mulher,1,6,5
+64271,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,3,0,No,mulher,10,high school,2
+93252,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,30,Yes,homem,9,College,3
+89962,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,Yes,No,No,No,No,No,Yes,No,boa,0,1,Yes,mulher,9,high school,2
+139242,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,regular,1,0,No,mulher,8,6,5
+104275,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,37,No,No,Yes,Yes,Yes,Yes,No,Yes,No,boa,3,0,No,homem,9,College,8
+141129,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,31,Yes,No,No,Yes,No,Yes,No,No,No,muito boa,0,0,No,homem,8,high school,7
+105347,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,Yes,No,No,Yes,No,Yes,No,ruim,30,30,Yes,homem,9,College,1
+134110,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,26,No,No,No,Yes,No,No,No,Yes,No,excelente,0,0,No,homem,8,College,8
+20684,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,0,No,homem,12,6,8
+112827,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,No,No,Yes,No,Yes,No,ruim,20,30,Yes,mulher,9,6,2
+11505,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,ruim,0,20,No,homem,13,College,5
+175946,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,7,6,8
+127355,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,29,Yes,Yes,No,No,Yes,Yes,No,No,No,boa,0,0,No,homem,8,9 a 11 anos de estudo,3
+160808,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,No,No,Yes,No,Yes,No,boa,30,20,No,mulher,7,College,8
+65128,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,19,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,10,6,8
+177836,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,7,College,8
+229158,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,No,Yes,No,No,Yes,regular,0,3,No,homem,4,9 a 11 anos de estudo,1
+241635,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,1,0,No,mulher,2,6,8
+223889,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,30,No,mulher,4,high school,4
+45399,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,boa,25,0,No,mulher,11,College,4
+55018,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,11,College,5
+194971,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,No,Yes,No,Yes,Yes,boa,7,0,No,mulher,6,College,3
+11441,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,No,Yes,Yes,No,Yes,No,excelente,0,0,Yes,homem,13,6,8
+46980,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,1,No,homem,11,high school,4
+173927,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,No,No,Yes,No,muito boa,0,0,No,homem,7,high school,8
+62143,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,34,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,0,1,No,mulher,10,6,7
+40039,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,11,6,8
+35981,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,35,Yes,No,No,Yes,No,No,No,Yes,No,ruim,0,30,Yes,homem,11,high school,5
+157656,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,No,No,No,No,No,Yes,No,Yes,No,ruim,20,30,Yes,mulher,7,6,8
+49548,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,17,No,No,No,Yes,No,No,No,Yes,No,boa,0,0,No,homem,11,high school,7
+226454,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,No,Yes,Yes,No,No,Yes,boa,7,0,No,mulher,4,high school,4
+43710,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,No,No,No,No,Yes,No,boa,0,1,No,homem,11,6,8
+122683,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,29,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,1,No,homem,8,6,7
+84830,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,10,6,8
+130186,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,3,1,No,homem,8,6,8
+175629,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,29,No,No,No,Yes,No,No,No,Yes,No,muito boa,0,2,No,homem,7,6,8
+117063,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,37,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,2,10,Yes,mulher,9,College,2
+32871,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,35,Yes,No,No,Yes,No,Yes,No,Yes,No,regular,0,30,No,homem,12,high school,5
+126363,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,Yes,No,No,Yes,No,Yes,No,muito boa,0,0,No,homem,8,9 a 11 anos de estudo,7
+252629,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,35,No,No,No,Yes,No,Yes,Yes,Yes,Yes,excelente,0,0,No,mulher,1,College,3
+159741,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,7,College,7
+30675,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,mulher,12,College,4
+177424,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,7,6,8
+221333,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,31,No,No,No,No,No,Yes,Yes,Yes,Yes,boa,0,0,No,homem,4,1 a 8 anos de estudo,7
+95004,pre-diabetes ou diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,38,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,9,6,7
+222681,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,44,Yes,No,No,Yes,No,Yes,No,Yes,No,regular,0,0,No,homem,4,College,6
+222766,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,24,Yes,No,No,Yes,No,Yes,Yes,No,Yes,muito boa,5,3,No,mulher,4,6,3
+212025,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,3,No,mulher,5,6,8
+160012,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,21,Yes,No,No,No,No,Yes,Yes,Yes,Yes,muito boa,30,30,No,mulher,7,6,8
+78366,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,No,No,No,Yes,No,muito boa,0,0,No,homem,10,6,8
+138714,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,8,high school,1
+224945,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,30,0,No,mulher,4,6,6
+105745,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,high school,8
+136103,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,8,6,6
+54468,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,25,No,No,No,No,No,Yes,No,Yes,No,regular,0,30,Yes,mulher,11,College,7
+242307,sem diabetes,High BP,High cholesterol,No cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,2,College,7
+238292,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,17,No,No,No,Yes,Yes,Yes,Yes,Yes,No,excelente,0,0,No,mulher,3,6,8
+68921,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,homem,10,6,8
+123556,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,84,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,2,0,No,mulher,8,6,8
+201860,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,18,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,5,6,8
+140677,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,No,Yes,No,Yes,No,excelente,0,3,No,homem,8,6,8
+178054,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,17,2,No,mulher,7,6,6
+81240,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,26,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,10,College,4
+142937,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,34,Yes,No,No,No,Yes,Yes,No,Yes,No,muito boa,1,1,No,mulher,8,high school,6
+225620,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,4,6,8
+28927,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,12,6,6
+48746,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,26,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,10,0,No,mulher,11,6,8
+123016,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,No,Yes,Yes,Yes,Yes,No,excelente,0,1,No,mulher,8,high school,8
+111139,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,9,6,8
+240764,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,10,0,No,homem,2,College,6
+226153,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,4,College,4
+223044,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,No,No,No,Yes,Yes,Yes,No,Yes,Yes,muito boa,0,0,No,mulher,4,high school,8
+200664,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,No,Yes,No,Yes,Yes,boa,3,1,No,mulher,5,6,1
+97448,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,No,Yes,No,No,No,muito boa,0,0,No,mulher,9,6,4
+19444,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,No,Yes,No,Yes,No,boa,0,0,No,homem,12,6,5
+177980,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,7,College,8
+197202,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,6,6,8
+178175,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,No,Yes,Yes,Yes,No,muito boa,20,1,No,mulher,7,high school,6
+220778,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,43,Yes,No,No,No,Yes,Yes,No,Yes,No,boa,30,5,No,mulher,4,College,5
+113144,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,9,6,6
+2085,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,No,No,Yes,No,No,No,regular,0,0,Yes,homem,13,College,5
+232398,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,36,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,2,2,No,homem,3,6,8
+194241,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,boa,5,0,Yes,homem,6,high school,3
+176634,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,homem,7,6,7
+208447,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,19,Yes,No,No,Yes,No,Yes,No,No,No,muito boa,0,0,No,homem,5,high school,6
+206893,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,20,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,5,No,mulher,5,6,8
+217799,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,No,No,Yes,No,Yes,Yes,boa,30,5,No,mulher,4,College,4
+14263,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,31,No,No,Yes,Yes,Yes,No,No,Yes,No,excelente,0,0,No,mulher,13,9 a 11 anos de estudo,4
+220204,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,homem,4,6,8
+19035,pre-diabetes ou diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,homem,12,high school,7
+228407,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,Yes,boa,7,0,No,mulher,4,high school,6
+235873,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,Yes,No,No,Yes,No,Yes,Yes,Yes,No,muito boa,4,0,No,mulher,3,College,6
+195346,sem diabetes,No high,No high cholesterol,No cholesterol check in 5 years,27,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,boa,15,2,No,mulher,6,College,8
+73723,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,32,No,No,No,Yes,No,Yes,No,Yes,No,muito boa,1,1,No,mulher,10,6,7
+240909,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,18,No,No,No,Yes,Yes,No,No,Yes,No,excelente,0,0,No,mulher,2,high school,7
+196865,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,25,No,No,No,No,No,Yes,No,No,No,boa,0,0,No,homem,6,6,6
+58061,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,37,No,No,No,No,No,Yes,No,Yes,No,regular,2,4,Yes,mulher,10,College,3
+140831,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,8,6,8
+177364,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,37,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,mulher,7,6,8
+103830,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,33,No,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,9,6,8
+41860,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,22,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,Yes,mulher,11,6,8
+77068,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,mulher,10,College,7
+51541,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,No,Yes,No,Yes,No,excelente,0,0,No,mulher,11,high school,4
+59206,pre-diabetes ou diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,26,No,No,Yes,Yes,Yes,Yes,No,Yes,No,muito boa,0,14,No,mulher,10,6,8
+220322,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,28,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,2,0,No,mulher,4,6,7
+242071,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,Yes,Yes,No,Yes,No,excelente,30,18,No,homem,2,College,5
+72911,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,10,6,8
+43676,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,Yes,No,No,Yes,No,No,No,Yes,No,boa,30,30,Yes,mulher,11,high school,7
+38773,pre-diabetes ou diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,regular,6,15,Yes,mulher,11,College,5
+49855,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,23,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,boa,0,0,No,mulher,11,high school,7
+14471,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,37,Yes,No,Yes,Yes,Yes,No,No,Yes,No,regular,0,30,Yes,mulher,13,6,5
+217646,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,23,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,0,0,No,mulher,4,6,8
+241350,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,Yes,muito boa,2,0,No,mulher,2,6,4
+141020,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,1,No,homem,8,6,8
+201757,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,No,Yes,No,No,Yes,No,regular,0,3,No,homem,5,1 a 8 anos de estudo,4
+252108,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,No,Yes,No,Yes,No,muito boa,2,0,No,homem,1,College,6
+103327,sem diabetes,High BP,High cholesterol,Yes cholesterol check in 5 years,30,No,No,No,No,No,Yes,No,No,No,muito boa,0,0,No,homem,9,6,8
+250727,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,25,Yes,No,No,Yes,No,No,No,Yes,No,muito boa,0,2,No,mulher,1,6,4
+227435,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,excelente,0,0,No,mulher,4,6,8
+174128,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,32,Yes,No,No,Yes,No,Yes,No,Yes,No,regular,15,15,No,mulher,7,high school,8
+12940,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,21,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,10,Yes,mulher,13,College,7
+209459,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,5,6,8
+178567,sem diabetes,No high,No high cholesterol,Yes cholesterol check in 5 years,24,Yes,No,No,Yes,Yes,Yes,No,Yes,No,boa,0,0,No,mulher,7,high school,4
+232709,sem diabetes,High BP,No high cholesterol,Yes cholesterol check in 5 years,39,Yes,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,10,2,No,mulher,3,6,8
+175087,sem diabetes,No high,High cholesterol,Yes cholesterol check in 5 years,27,No,No,No,Yes,Yes,Yes,No,Yes,No,muito boa,0,0,No,homem,7,6,8
