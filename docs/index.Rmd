@@ -89,7 +89,7 @@ knitr::include_graphics("img/perfil.png")
     
     - Atividade 4: comparação de médias entre mais de dois grupos (ANOVA/Teste de Kruskall-Wallis).
     
-- Testes com `{gtsummary}`.
+- **Testes com `{gtsummary}`**.
 
 
 ---
