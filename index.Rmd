@@ -1,0 +1,383 @@
+---
+title: "Testes de hipóteses"
+author: "Ornella Scardua Ferreira"
+output: 
+  xaringan::moon_reader:
+    lib_dir: libs
+    seal: false
+    css: [xaringan-themer.css, "custom_css.css"]
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      xaringanExtra:
+        - use_clipboard
+---
+class: middle, center, inverse
+
+# Testes de hipóteses
+
+.large[### Curso de Bioestatística com R]
+
+*****
+
+#### <br><br><br>Ornella Scardua Ferreira
+#### `r fontawesome::fa("square-envelope", fill = "#f4f4f4")` [ornscar@gmail.com](ornscar@gmail.com) `r fontawesome::fa("github", fill = "#f4f4f4")` [@ornscar](https://github.com/ornscar) `r fontawesome::fa("twitter", fill = "#f4f4f4")` [@ornscar](https://twitter.com/ornscar) 
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-extra, include=FALSE, warning=FALSE}
+xaringanExtra::use_clipboard()
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+
+blue <- "#0000cd"
+offw <- "#f4f4f4"
+gray <- "#333333"
+green <- "#58b30d"
+
+style_duo(
+  # colors
+  primary_color = offw,
+  secondary_color = blue,
+  header_color = gray,
+  text_color = gray,
+  code_inline_color = colorspace::lighten(gray),
+  text_bold_color = colorspace::lighten(gray),
+  link_color = green,
+  title_slide_text_color = green,
+  # fonts
+  header_font_google = google_font("Martel", "300", "400"),
+  text_font_google = google_font("Lato"),
+  code_font_google = google_font("Fira Mono")
+)
+```
+
+---
+class: middle, center, partial-bg
+
+.pull-left[
+### Sobre mim
+
+```{r echo=FALSE, fig.align ='center', out.width="75%"}
+knitr::include_graphics("img/perfil.png")
+```
+]
+
+.pull-right[
+<br><br><br><br><br><br><br>
+<font color="#FFF5F4"><em>Amo gráficos como amo cavalos. Gosto de música ruim e de cinema (bom). Sou apaixonada pelo Botafogo e pelo Bayern de Munique. Prefiro Vila Velha a qualquer lugar no mundo. Não tenho sonhos, mas um dia espero ver a Palestina livre.</font></em>
+]
+
+---
+
+### Cronograma
+
+
+- **Aplicação dos testes no** `r fontawesome::fa("r-project", fill = "#333333")`:
+
+    - Atividade 1: comparação de médias entre dois grupos (Teste T/Teste de Mann-Whitney);
+        
+    - Atividade 2: comparação de proporções entre dois grupos (Teste Qui-quadrado/Teste Exato de Fisher);
+    
+    - Atividade 3: comparação de médias entre dois grupos pareados (Teste T pareado/Teste de Wilcoxon);
+    
+    - Atividade 4: comparação de médias entre mais de dois grupos (ANOVA/Teste de Kruskall-Wallis).
+    
+- Testes com `{gtsummary}`.
+
+
+---
+
+### Atividade 1
+
+#### _**Objetivo:** relacionar IMC (numérico) com diabetes._
+#### Base de dados: `diabetes.csv`.
+
+<br> 
+
+- 1° passo: carregar os dados no `r fontawesome::fa("r-project", fill = "#333333")`.
+
+```{r}
+# carregando os dados
+dados1 <- readr::read_csv("dados/diabetes.csv", show_col_types = FALSE)
+```
+
+---
+
+- 2° passo: verificar normalidade dos dados, por exemplo, por meio do Teste de Shapiro-Wilk.
+
+```{r}
+# teste de shapiro-wilk
+shapiro.test(dados1$BMI)
+```
+
+<div class="callout-note">
+<b>Conclusão!</b><br><br>O Teste de Shapiro-Wilk testa a hipótese nula (H<sub>0</sub>) que afirma que os dados seguem distribuição normal. Logo, dado o valor-p menor do que 0,05, há evidências suficientes para rejeitar H<sub>0</sub> e concluir que a variável IMC não é normalmente distribuída.
+</div>
+
+---
+
+- 3° passo: aplicar **Teste T** ou **Teste de Mann-Whitney** para comparar média entre os grupos.
+
+##### Teste T (para caso paramétrico)
+
+```{r}
+# teste t
+t.test(BMI ~ Diabetes_012, data = dados1, alternative = "two.sided", conf.level = 0.95)
+```
+
+<div class="callout-warning">
+<b>Atenção!</b><br><br>O Teste T exige a suposição de uma distribuição de probabilidade para a variável testada (geralmente, normal). Por isso, uma vez que o Teste de Shapiro-Wilk apontou para a não normalidade da variável IMC na etapa anterior, a aplicação do Teste T, neste caso, torna-se inverossímel.
+</div>
+
+---
+
+##### Teste de Mann-Whitney (para caso não paramétrico)
+
+```{r}
+# teste de mann-whitney
+wilcox.test(BMI ~ Diabetes_012, data = dados1, alternative = "two.sided", conf.level = 0.95)
+```
+
+<div class="callout-note">
+<b>Conclusão!</b><br><br>O Teste de Mann-Whitney é utilizado para testar se duas amostras independentes foram retiradas de populações com médias iguais (H<sub>0</sub>), caso os pressupostos exigidos pelo Teste T forem violados. Portanto, ao nível de significância de 5%, há evidências suficientes para rejeitar H<sub>0</sub> e concluir que o IMC médio entre os grupos com e sem diabetes é diferente.
+</div>
+
+---
+
+### Atividade 2
+
+#### _**Objetivo:** relacionar nível de colesterol (categórico) com diabetes._
+#### Base de dados: `diabetes.csv`.
+
+- 1° passo: carregar os dados no `r fontawesome::fa("r-project", fill = "#333333")`.
+
+```{r}
+# carregando os dados
+dados1 <- readr::read_csv("dados/diabetes.csv", show_col_types = FALSE)
+```
+
+- 2° passo: criar tabela de contingência 2x2.
+
+```{r}
+# tabela 2x2
+t22 <- table(dados1$HighChol, dados1$Diabetes_012); t22
+```
+
+---
+
+- 3° passo: aplicar o **Teste Qui-quadrado** ou o **Teste Exato de Fisher**.
+
+##### Teste Qui-quadrado
+
+```{r}
+# teste qui-quadrado
+chisq.test(t22)
+```
+
+<div class="callout-note">
+<b>Conclusão!</b><br><br>O Teste Qui-quadrado testa a hipótese (H<sub>0</sub>) que afirma que não existe associação entre duas certas variáveis (são independentes) contra a hipótese (H<sub>1</sub>) que afirma que existe associação entre essas duas variáveis (são dependentes). Portanto, ao nível de significância de 5%, há evidências suficientes para rejeitar H<sub>0</sub> e concluir que colesterol está associado ao diagnóstico de diabetes.
+</div>
+
+---
+
+##### Teste Exato de Fisher (para casos em que há caselas com frequências abaixo de 5)
+
+```{r}
+# teste exato de fisher
+fisher.test(t22, alternative = "two.sided", conf.level = 0.95)
+```
+
+
+<div class="callout-warning">
+<b>Atenção!</b><br><br>Quando a frequência esperada de alguma das caselas não é maior do que 5, o Teste Exato de Fisher é utilizado como alternativa. A interpretação é análoga ao Teste Qui-quadrado.
+</div>
+
+---
+
+### Atividade 3
+
+#### _**Objetivo:** comparar IMC pré e pós-tratamento para anorexia em meninas._
+#### Base de dados: `anorexia.csv`.
+
+<br> 
+
+- 1° passo: carregar os dados no `r fontawesome::fa("r-project", fill = "#333333")`.
+
+```{r}
+# carregando os dados
+dados2 <- readr::read_csv("dados/anorexia.csv", show_col_types = FALSE)
+```
+
+---
+
+- 2° passo: verificar normalidade dos dados, por exemplo, por meio do Teste de Shapiro-Wilk.
+
+```{r}
+# teste de shapiro-wilk
+shapiro.test(dados1$BMI)
+```
+
+<div class="callout-note">
+<b>Conclusão!</b><br><br>Dado o valor-p menor do que 0,05, há evidências suficientes para rejeitar H<sub>0</sub> e concluir que a variável IMC não é normalmente distribuída.
+</div>
+
+---
+
+- 3° passo: aplicar **Teste T pareado** ou **Teste de Wilcoxon**.
+
+##### Teste T (para caso paramétrico)
+
+```{r}
+# teste t pareado
+t.test(dados2$imc[dados2$momento == "pre tratamento"], dados2$imc[dados2$momento == "pos tratamento"], 
+       paired = TRUE, alternative = "two.sided", conf.level = 0.95)
+```
+
+<div class="callout-warning">
+<b>Atenção!</b><br><br>Assim como o Teste T, o Teste T pareado também exige a suposição de uma distribuição de probabilidade para a variável testada. Por isso, uma vez que o Teste de Shapiro-Wilk apontou para a não normalidade da variável IMC na etapa anterior, a aplicação do Teste T pareado, neste caso, torna-se inverossímel.
+</div>
+
+---
+
+##### Teste de Wilcoxon (para caso não paramétrico)
+
+```{r}
+# teste de wilcoxon
+wilcox.test(dados2$imc[dados2$momento == "pre tratamento"], dados2$imc[dados2$momento == "pos tratamento"], 
+            paired = TRUE, alternative = "two.sided", conf.level = 0.95)
+```
+
+<div class="callout-note">
+<b>Conclusão!</b><br><br>O Teste de Wilcoxon é uma alternativa ao Teste T para amostras pareadas quando os dados não atendem às exigências deste último. Em palavras, nesta atividade estão sendo testadas as hipótese: H<sub>0</sub>- há diferença média entre os IMCs pré e pós-tratamento e H<sub>1</sub>- não há diferença média entre os IMCs pré e pós-tratamento. Logo, uma vez que o valor-p encontrado é menor do que 0,05, há fortes evidências em rejeitar H<sub>0</sub> e concluir que o tratamento contra anorexia é efetivo em meninas.
+</div>
+
+<div class="callout-warning">
+<b>Atenção!</b><br><br>Como a variável que descreve o momento do tratamento está em uma única variável, para que o teste pareado performe de maneira correta é necessário que o primeiro indivíduo do primeiro tratamento seja o primeiro indíviduo do segundo tratamento, que o segundo indivíduo do primeiro tratamento seja o segundo indivíduo do segundo tratamento e assim por diante.
+</div>
+
+---
+
+### Atividade 4 
+
+#### _**Objetivo:** relacionar IMC com autoavaliação da saúde geral._
+#### Base de dados: `diabetes.csv`.
+
+<br>
+
+- 1° passo: carregar os dados no `r fontawesome::fa("r-project", fill = "#333333")`.
+
+```{r}
+# carregando os dados
+dados1 <- readr::read_csv("dados/diabetes.csv", show_col_types = FALSE)
+```
+
+---
+
+- 2° passo: verificar normalidade dos dados por meio do Teste de Shapiro-Wilk.
+
+```{r}
+# teste de shapiro-wilk
+shapiro.test(dados1$BMI)
+```
+
+<div class="callout-note">
+<b>Conclusão!</b><br><br>Dado o valor-p menor do que 0,05, há evidências suficientes para rejeitar H<sub>0</sub> e concluir que a variável IMC não é normalmente distribuída.
+</div>
+
+---
+
+- 3° passo: aplicar **ANOVA** ou **Teste de Kruskall-Wallis**.
+
+##### ANOVA (para caso paramétrico)
+
+```{r}
+# anova
+summary(aov(BMI ~ saude_geral, data = dados1))
+```
+
+<div class="callout-warning">
+<b>Atenção!</b><br><br> A ANOVA exige o pressuposto de normalidade dos dados. Por isso, uma vez que o Teste de Shapiro-Wilk apontou para a não normalidade da variável IMC na etapa anterior, a aplicação da ANOVA, neste caso, não é adequada.
+</div>
+
+---
+
+##### Teste de Kruskall-Wallis (para caso não paramétrico)
+
+```{r}
+# teste de kruskall-wallis
+kruskal.test(BMI ~ saude_geral, data = dados1)
+```
+
+<div class="callout-note">
+<b>Conclusão!</b><br><br>O Teste de Kruskall-Wallis é adequado para testar se mais de dois grupos independentes têm médias iguais (H<sub>0</sub>). Assim, ao nível de significância de 5%, há evidências suficientes para rejeitar H<sub>0</sub> e concluir que pelo menos uma das categorias de saúde geral tende a ter valor de IMC diferente das demais.
+</div>
+
+---
+
+
+- Aplicando testes com `{gtsummary}`
+
+.pull-left[
+```{r t1, paged.print=FALSE, eval=FALSE}
+library(gtsummary)
+
+dados1 |> 
+  dplyr::mutate(
+    Sex = forcats::fct_recode(Sex, "Feminino"="mulher", "Masculino"="homem"),
+    Smoker = forcats::fct_recode(Smoker, "Sim"="Yes", "Não"="No"),
+    Diabetes_012 = forcats::fct_recode(Diabetes_012, "Pré/Com"="pre-diabetes ou diabetes", "Sem"="sem diabetes")
+  ) |> 
+  tbl_summary(
+    by = Diabetes_012,
+    include = c(Sex, Smoker, BMI),
+    label = list(Sex ~ "Sexo", Smoker ~ "Tabagista", BMI ~ "IMC"),
+    statistic = list(                                                        
+      all_continuous() ~ "{mean}", 
+      all_categorical() ~ "{n} ({p}%)"
+    ),
+    digits = list(                                                  
+      all_continuous() ~ 2, 
+      all_categorical() ~ c(0, 1) 
+    )
+  ) |> 
+  add_p(pvalue_fun = label_style_pvalue(digits = 3)) |>
+  modify_header(
+    label ~ "**Variável**",
+    p.value ~ "**p**"
+  ) |>
+  modify_spanning_header(c("stat_1", "stat_2") ~ "**Diagnóstico de diabetes**") |>
+  bold_labels()
+```
+]
+
+.pull-right[
+```{r t1-out, ref.label="t1", out.width="50%", echo=FALSE, message=FALSE}
+
+```
+
+<div class="callout-tip">
+<b>Dica!</b><br><br>Para alterar o teste, faça, por exemplo, add_p(test = everything() ~ "wilcox.test"), add_p(test = list(all_continuous() ~ "wilcox.test", all_categorical() ~ "chisq.test") ou add_p(test = my_custom_test).
+</div>
+]
+
+---
+
+class: middle, center, inverse
+
+# Meu obrigada!<br>`r fontawesome::fa("heart", fill = "#f4f4f4")`
+
+`r fontawesome::fa("square-envelope", fill = "#f4f4f4")` [ornscar@gmail.com](ornscar@gmail.com)
+`r fontawesome::fa("github", fill = "#f4f4f4")` [@ornscar](https://github.com/ornscar) 
+`r fontawesome::fa("twitter", fill = "#f4f4f4")` [@ornscar](https://twitter.com/ornscar) 
+
+<div class="footnote">Slides criados via pacotes R: <a href="https://github.com/yihui/xaringan">xaringan</a> e <a href="https://github.com/gadenbuie/xaringanthemer">gadenbuie/xaringanthemer.</a></div>
+
+
+
